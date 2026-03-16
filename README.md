@@ -1,182 +1,123 @@
-Objetivo
+#  Estudo Inteligente para Programação com NotebookLM
 
-Este projeto utiliza o NotebookLM como uma base de conhecimento para estudar programação, ciência da computação e métodos de aprendizado eficiente. A ideia é centralizar materiais de estudo e utilizar a IA como um assistente para explicar conceitos, resolver dúvidas e auxiliar na aplicação prática do conhecimento.
+##  Objetivo do Projeto
 
-Conhecimento Disponível no NotebookLM
+Este projeto tem como objetivo explorar o uso do NotebookLM como uma ferramenta de apoio ao aprendizado em programação e tecnologia.
 
-Com base nos documentos adicionados, o sistema possui conhecimento nas seguintes áreas:
+A proposta é reunir materiais de estudo sobre programação, engenharia de software, matemática para computação e técnicas de aprendizado eficiente, utilizando inteligência artificial para organizar informações, gerar explicações e ajudar na compreensão de conceitos complexos.
 
-1. Programação e Desenvolvimento Web
+O foco é aprender programação de forma mais eficiente, desenvolvendo habilidades como:
 
-O sistema possui informações sobre fundamentos da programação e tecnologias utilizadas no desenvolvimento de software.
+* raciocínio lógico
+* resolução de problemas
+* construção de algoritmos
+* desenvolvimento de aplicações
 
-Python
+---
 
-Estruturas de dados: listas, tuplas, conjuntos e dicionários
+#  Fontes Utilizadas
 
-Iteração e compreensões de lista
+As fontes adicionadas ao NotebookLM incluem conteúdos relacionados a:
 
-Características da linguagem:
+### Programação
 
-linguagem de alto nível
+* fundamentos de Python
+* lógica de programação
+* estruturas de dados
+* desenvolvimento web (HTML)
 
-interpretada via bytecode
+### Engenharia de Software
 
-tipagem dinâmica e forte
+* boas práticas de código (Clean Code)
+* arquitetura de software
+* modelos de desenvolvimento
 
-HTML e Web
+### Matemática para Computação
 
-Estrutura de páginas web através de HTML
+* matemática discreta
+* lógica booleana
+* teoria dos grafos
+* conceitos matemáticos aplicados a algoritmos
 
-Uso de tags para organizar conteúdo
+### Aprendizado Eficiente
 
-Metadados e estrutura básica de páginas
+* Active Recall
+* Spaced Repetition
+* Ultralearning
+* técnicas de estudo baseadas em ciência cognitiva
 
-Lógica de Programação
+---
 
-Conceito de algoritmos
+#  Testes de Prompts
 
-Sequências lógicas de passos para resolver problemas
+Durante o uso do NotebookLM foram realizados testes de prompts para avaliar como a IA responde a diferentes tipos de perguntas.
 
-Base para desenvolvimento de software
+### Prompt 1 – Explicação de conceitos
 
-2. Engenharia de Software
+Explique de forma simples e didática um conceito de programação.
 
-O NotebookLM também possui conhecimento relacionado às práticas profissionais de desenvolvimento de software.
+Resultado:
+A IA apresentou explicações claras, organizadas e com exemplos que ajudam na compreensão.
 
-Clean Code
+---
 
-Importância de código organizado e legível
+### Prompt 2 – Explicação aplicada
 
-Disciplina e atenção aos detalhes
+Explique como aplicar determinado conceito na prática dentro de um projeto de programação.
 
-Princípios de organização inspirados no método 5S:
+Resultado:
+A IA conseguiu relacionar teoria e prática, mostrando como os conceitos podem ser usados no desenvolvimento de software.
 
-organização
+---
 
-arrumação
+### Prompt 3 – Explicação estruturada
 
-limpeza
+Peça para a IA organizar o conhecimento disponível em categorias ou resumos.
 
-padronização
+Resultado:
+O NotebookLM conseguiu organizar as informações presentes nas fontes em áreas como programação, engenharia de software e matemática.
 
-disciplina
+---
 
-Engenharia de Software
+#  Miniguia de Uso
 
-Conhecimento sobre o ciclo de desenvolvimento de software, incluindo:
+## 1️ Adicionar fontes
 
-especificação
+Adicione documentos, textos ou materiais de estudo ao NotebookLM para criar uma base de conhecimento.
 
-desenvolvimento
+---
 
-manutenção
+## 2️ Fazer perguntas sobre o conteúdo
 
-Modelos de processo conhecidos:
+Utilize prompts para explorar os materiais adicionados, como:
 
-modelo cascata
+* explicar conceitos
+* resumir conteúdos
+* gerar exemplos práticos
 
-desenvolvimento incremental
+---
 
-desenvolvimento orientado a reúso
+## 3️ Usar como assistente de estudo
 
-3. Arquitetura de Sistemas
+O NotebookLM pode ser utilizado para:
 
-O sistema possui informações sobre padrões e estruturas utilizadas em sistemas de software.
+* revisar conteúdos
+* tirar dúvidas
+* aprofundar conceitos
+* organizar informações de estudo
 
-Padrões Arquiteturais
+---
 
-MVC (Model–View–Controller)
+#  Notebook Utilizado
 
-Arquitetura em camadas
+NotebookLM utilizado neste projeto:
 
-Cliente–Servidor
+https://notebooklm.google.com/notebook/46163d41-8b3e-4d42-bd8f-093efb775327
 
-Sistemas Distribuídos
+---
 
-Teorema CAP
+#  Conclusão
 
-consistência
+O uso do NotebookLM como ferramenta de estudo pode ajudar a tornar o aprendizado mais organizado e eficiente, permitindo que o estudante explore conteúdos de forma interativa e aprofundada.
 
-disponibilidade
-
-tolerância a partição
-
-4. Estratégias de Aprendizado Eficiente
-
-O NotebookLM também reúne conhecimento sobre técnicas baseadas em ciência cognitiva para melhorar o aprendizado.
-
-Active Recall
-
-aprendizado através da recuperação ativa da informação
-
-uso de testes práticos para reforçar memória
-
-Spaced Repetition
-
-revisões distribuídas ao longo do tempo
-
-combate à curva do esquecimento
-
-Ultralearning
-
-Princípios de aprendizado autodirigido:
-
-metaprendizado (aprender a aprender)
-
-foco intenso
-
-aprendizado baseado em prática
-
-exercícios específicos (drills)
-
-Dificuldades Desejáveis
-
-aprendizado mais forte quando envolve esforço
-
-maior retenção comparado à leitura passiva
-
-5. Matemática para Computação
-
-O sistema possui informações sobre a importância da matemática no desenvolvimento tecnológico.
-
-Fundamentos
-
-lógica matemática
-
-matemática discreta
-
-lógica booleana
-
-Aplicações
-
-teoria dos grafos
-
-algoritmos
-
-análise matemática
-
-Cálculo
-
-limites
-
-derivadas
-
-integrais
-
-6. Tecnologias Emergentes
-
-O sistema também possui conhecimento sobre tendências tecnológicas.
-
-Inteligência Artificial aplicada à programação
-
-ferramentas de geração de código
-
-uso de linguagem natural para desenvolvimento
-
-Exemplo de tecnologia relacionada:
-
-OpenAI Codex
-Finalidade do Projeto
-
-O objetivo desta base de conhecimento é permitir que o NotebookLM funcione como um mentor de aprendizado, auxiliando no estudo de programação, engenharia de software e desenvolvimento de aplicações completas.
+Essa abordagem facilita o entendimento de conceitos complexos e auxilia no desenvolvimento de habilidades essenciais para quem deseja atuar na área de tecnologia.
